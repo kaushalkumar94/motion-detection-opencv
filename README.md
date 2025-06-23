@@ -24,5 +24,6 @@ Motion detection is no longer just a cool tech trick — it's at the heart of sm
 - Can reset background frame (`r` key)
 - Logs motion events with timestamp
 
+## To see the action go watch the example video in the parent directory of the repo.
 
 
